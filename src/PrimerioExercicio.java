@@ -31,7 +31,7 @@ public class PrimerioExercicio {
                 System.out.println("Número inválido");
             }
         
-        System.out.println("Gostaria de colocar outro número? S/N");
+        System.out.println("Gostaria de colocar outro número? S/N ");
     
         res = scan.next();
         
